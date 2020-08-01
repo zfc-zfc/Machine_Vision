@@ -1,2 +1,2 @@
 # Machine-Vision
-These are codes for Machine Vision projects
+These are codes for Machine Vision projects.
